@@ -42,7 +42,6 @@ This report maps five Azure services to their functional equivalents in AWS and 
 | Pricing (logs)      | 2.30/GB                                                                                                                                         | 0.50/GB                                                                                                              | 0.                                                                                                                                                                                                       |
 | DevSecOps           | Integration with CI/CD pipelines, OpenTelemetry.                                                                                                | Same.                                                                                                                |                                                                                                                                                                                                          |
 
-
 ## Policy: Azure Policy
 
 **AWS equivalent:** Config + SCPs
